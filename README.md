@@ -1,4 +1,4 @@
 projecteuler
 ============
 
-Solving problem from  http://projecteuler.net/
+Solving problems from  http://projecteuler.net/
